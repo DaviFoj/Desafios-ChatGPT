@@ -28,3 +28,32 @@ Descrição: Crie uma mini shell (interpretador de comandos) que roda no termina
     Loop de Execução
 
         O shell deve continuar rodando até que o usuário digite exit.
+
+🌟 Recursos Extras (Desafio Estendido)
+
+    Suporte a pipes (|)
+
+    Suporte a redirecionamento (>, <)
+
+    Histórico de comandos
+
+    Auto-complete básico com readline (mais avançado)
+
+📁 Estrutura do Projeto
+
+/mini-shell
+│
+├── main.c
+├── shell.h
+├── shell.c
+└── README.md
+
+📌 O Que Você Pode Colocar no Portfólio:
+
+    Explicação do que é uma shell
+
+    Prints ou gif do terminal usando sua shell
+
+    Principais aprendizados (uso de fork, exec, gerenciamento de processos)
+
+    Possíveis melhorias futuras
